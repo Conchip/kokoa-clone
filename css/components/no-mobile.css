@@ -2,8 +2,8 @@
   position: absolute;
   z-index: 99;
   height: 100vh;
-  background-color: var(--yellow);
   width: 100vw;
+  background-color: var(--yellow);
   display: flex;
   justify-content: center;
   align-items: center;
