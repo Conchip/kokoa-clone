@@ -1,0 +1,41 @@
+body {
+  height: 100vh;
+  background-color: tomato;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+div {
+  width: 400px;
+  height: 400px;
+  background-color: wheat;
+  border: solid 3px black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#center {
+  width: 320px;
+  height: 80px;
+  background-color: teal;
+  border: dashed 3px white;
+  margin: 20px 0px;
+}
+
+#top {
+  display: block;
+  width: 80px;
+  height: 80px;
+  background-color: teal;
+  border: solid 3px white;
+}
+
+#bottom {
+  display: block;
+  width: 80px;
+  height: 80px;
+  background-color: teal;
+  border: solid 3px white;
+}
